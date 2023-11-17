@@ -1,0 +1,8 @@
+Hello world
+
+git add <filename>
+git commit -m "message"
+git restore <filename>
+git rm <filename>
+git restore <filename> //go to previous version before updating text file from track change
+git restore --staged <filename> //go to previous version before updating text file from repository 
